@@ -1,4 +1,4 @@
-#Terms of Use
+# Terms of Use
 
 ## General
 By using this application, you are agreeing that this is nothing more than 

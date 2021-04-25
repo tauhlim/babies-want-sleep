@@ -13,6 +13,9 @@ be using that information to target you for ads.
 ### Email
 * To make sure data you generate on the app stays tagged to your account
 * To let you share access to babies with other users (e.g. your partner, caregivers) based on email address
+* To contact you:
+   * in the event you've forgotten your password and need to reset it
+   * in the event you've contacted us for support
 
 ### Display Name
 * We may use this to personalize greeting messages or notifications
